@@ -12,27 +12,27 @@
 	- El. paštas
 	- Miestas (miestelis, kaimas)	
 
-## SĖKLŲ SĖJIMAS
-	- Kategorija (daržovių sėklos, gėlių sėklos)
-	- Pavadinimas (agurkai, pomidorai)
-	- Veislė (paprastieji trumpavaisiai agurkai Mirabelle H...) 
-	- Sėklų kiekis
-	- Sėjimo data
-	- Vazonų – daigyklų informacija (talpa, dydis)
-	- Žemių rūšis (durpės, juodžemis)
-	- Sėjimo vieta (šiltnamis, patalpa, lysvė, laukas)
-	- Daigų sodinimas (susieta su APPSU Daigų sodinimas)
-	- Augalų priežiūra (susieta su APPSU Augalų priežiūra)
-	- Pastabos
+- Sėklų sėjimas
+  - Kategorija (daržovių sėklos, gėlių sėklos)
+  - Pavadinimas (agurkai, pomidorai)
+  - Veislė (paprastieji trumpavaisiai agurkai Mirabelle H...) 
+  - Sėklų kiekis
+  - Sėjimo data
+  - Vazonų – daigyklų informacija (talpa, dydis)
+  - Žemių rūšis (durpės, juodžemis)
+  - Sėjimo vieta (šiltnamis, patalpa, lysvė, laukas)
+  - Daigų sodinimas (susieta su APPSU Daigų sodinimas)
+  - Augalų priežiūra (susieta su APPSU Augalų priežiūra)
+  - Pastabos
 
-## DAIGŲ SODINIMAS
-1.	Sėklų sėjimas (susieta su APPSU Sėklų sėjimas)
-2.	Daigų kiekis
-3.	Daigų sodinimo data
-4.	Pikiavimo data
-5.	Persodinimo vieta (šiltnamis, patalpa, lysvė, laukas)
-6.	Augalo užsodinimo plotas (arais)
-7.	Augalų priežiūra (susieta su APPSU Augalų priežiūra)
+- Daigų sodinimas
+  - Sėklų sėjimas (susieta su APPSU Sėklų sėjimas)
+  - Daigų kiekis
+  - Daigų sodinimo data
+  - Pikiavimo data
+  - Persodinimo vieta (šiltnamis, patalpa, lysvė, laukas)
+  - Augalo užsodinimo plotas (arais)
+  - Augalų priežiūra (susieta su APPSU Augalų priežiūra)
 
 Augalų priežiūra
 1.	Sėklų sėjimas (susieta su APPSU Sėklų sėjimas)
