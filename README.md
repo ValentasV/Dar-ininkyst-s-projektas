@@ -22,22 +22,22 @@
   - Vazonų – daigyklų informacija (talpa, dydis)
   - Žemių rūšis (durpės, juodžemis)
   - Sėjimo vieta (šiltnamis, patalpa, lysvė, laukas)
-  - Daigų sodinimas (susieta su APPSU Daigų sodinimas)
-  - Augalų priežiūra (susieta su APPSU Augalų priežiūra)
+  - **Daigų sodinimas (susieta su APPSU Daigų sodinimas)**
+  - **Augalų priežiūra (susieta su APPSU Augalų priežiūra)**
   - Pastabos
 
 - Daigų sodinimas
-  - Sėklų sėjimas (susieta su APPSU Sėklų sėjimas)
+  - **Sėklų sėjimas (susieta su APPSU Sėklų sėjimas)**
   - Daigų kiekis
   - Daigų sodinimo data
   - Pikiavimo data
   - Persodinimo vieta (šiltnamis, patalpa, lysvė, laukas)
   - Augalo užsodinimo plotas (arais)
-  - Augalų priežiūra (susieta su APPSU Augalų priežiūra)
+  - **Augalų priežiūra (susieta su APPSU Augalų priežiūra)**
 
 - Augalų priežiūra
-  - Sėklų sėjimas (susieta su APPSU Sėklų sėjimas)
-  - Daigų sodinimas (susieta su APPSU Daigų sodinimas)
+  - **Sėklų sėjimas (susieta su APPSU Sėklų sėjimas)**
+  - **Daigų sodinimas (susieta su APPSU Daigų sodinimas)**
   - Augalų priežiūros data
   - Trąšos
   - Pesticidai
@@ -51,18 +51,19 @@
   - Pastabos
 
 - Derliaus nuėmimas
-  - Sėklų sėjimas (susieta su APPSU Sėklos)
-  - Daigų sodinimas (susieta su APPSU Daigai)
+  - **Sėklų sėjimas (susieta su APPSU Sėklos)**
+  - **Daigų sodinimas (susieta su APPSU Daigai)**
   - Derliaus nuėmimo data
-  - Augalų priežiūra (susieta su APPSU Augalų priežiūra)
+  - **Augalų priežiūra (susieta su APPSU Augalų priežiūra)**
   - Derliaus kiekis
   - Derliaus sandėliavimo vieta
   - Derliaus laikymo laikotarpis (nuo – iki)
 
 - Augalų auginimo priminimai
-  - Sėklų sėjimas (susieta su APPSU Sėklos)
-  - Daigų sodinimas (susieta su APPSU Daigai)
-  - Augalų priežiūra (susieta su APPSU Augalų priežiūra)
+  - **Sėklų sėjimas (susieta su APPSU Sėklos)**
+  - **Daigų sodinimas (susieta su APPSU Daigai)**
+  - **Augalų priežiūra (susieta su APPSU Augalų priežiūra)**
+  - **Derliaus nuėmimas (susieta du APPSU Derliaus nuėmimas)**
   - Priminimo data nuo kada
   - Priminimo data iki kada
 
