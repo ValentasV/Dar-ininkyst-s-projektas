@@ -49,21 +49,21 @@
   - Sodo – daržo Įrankiai, technika (kastuvas, kultivatorius)
   - Pastabos
 
-Derliaus nuėmimas
-1.	Sėklų sėjimas (susieta su APPSU Sėklos)
-2.	Daigų sodinimas (susieta su APPSU Daigai)
-3.	Derliaus nuėmimo data
-4.	Augalų priežiūra (susieta su APPSU Augalų priežiūra)
-5.	Derliaus kiekis
-6.	Derliaus sandėliavimo vieta
-7.	Derliaus laikymo laikotarpis (nuo – iki)
+- Derliaus nuėmimas
+  - Sėklų sėjimas (susieta su APPSU Sėklos)
+  - Daigų sodinimas (susieta su APPSU Daigai)
+  - Derliaus nuėmimo data
+  - Augalų priežiūra (susieta su APPSU Augalų priežiūra)
+  - Derliaus kiekis
+  - Derliaus sandėliavimo vieta
+  - Derliaus laikymo laikotarpis (nuo – iki)
 
-Augalų auginimo priminimai
-1.	Sėklų sėjimas (susieta su APPSU Sėklos)
-2.	Daigų sodinimas (susieta su APPSU Daigai)
-3.	Augalų priežiūra (susieta su APPSU Augalų priežiūra)
-4.	Priminimo data nuo kada
-5.	Priminimo data iki kada
+- Augalų auginimo priminimai
+  - Sėklų sėjimas (susieta su APPSU Sėklos)
+  - Daigų sodinimas (susieta su APPSU Daigai)
+  - Augalų priežiūra (susieta su APPSU Augalų priežiūra)
+  - Priminimo data nuo kada
+  - Priminimo data iki kada
 
 
 
