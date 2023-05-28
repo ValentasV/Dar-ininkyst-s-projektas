@@ -34,20 +34,20 @@
   - Augalo užsodinimo plotas (arais)
   - Augalų priežiūra (susieta su APPSU Augalų priežiūra)
 
-Augalų priežiūra
-1.	Sėklų sėjimas (susieta su APPSU Sėklų sėjimas)
-2.	Daigų sodinimas (susieta su APPSU Daigų sodinimas)
-3.	Augalų priežiūros data
-4.	Trąšos
-5.	Pesticidai
-6.	Trašų – pesticidų kiekis
-7.	Ravėjimas
-8.	Laistymo būdas (kapiliarinis laistymas, laistymas purkštuvu...)
-9.	Vandens kiekis reikalingas augalams (litrais)
-10.	Dangos ir plėvelės tiesimas uždengimas (agrodanga, agroplėvelė)
-11.	Augalų Ligos
-12.	Sodo – daržo Įrankiai, technika (kastuvas, kultivatorius)
-13.	Pastabos
+- Augalų priežiūra
+  - Sėklų sėjimas (susieta su APPSU Sėklų sėjimas)
+  - Daigų sodinimas (susieta su APPSU Daigų sodinimas)
+  - Augalų priežiūros data
+  - Trąšos
+  - Pesticidai
+  - Trašų – pesticidų kiekis
+  - Ravėjimas
+  - Laistymo būdas (kapiliarinis laistymas, laistymas purkštuvu...)
+  - Vandens kiekis reikalingas augalams (litrais)
+  - Dangos ir plėvelės tiesimas uždengimas (agrodanga, agroplėvelė)
+  - Augalų Ligos
+  - Sodo – daržo Įrankiai, technika (kastuvas, kultivatorius)
+  - Pastabos
 
 Derliaus nuėmimas
 1.	Sėklų sėjimas (susieta su APPSU Sėklos)
