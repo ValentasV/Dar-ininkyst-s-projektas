@@ -11,19 +11,18 @@
  - Pavardė
  - Telefono numeris
  - El. paštas
- - Miestas (miestelis, kaimas)	
+ - Miestas (miestelis, kaimas)
 
 - Augalas
  - Kategorija (daržovių sėklos, gėlių sėklos)
- - Pavadinimas (agurkai, pomidorai)
- - Veislė (paprastieji trumpavaisiai agurkai Mirabelle H...) 
- - Kiekis
- - Vazonų – daigyklų informacija (talpa, dydis)
- - Sėjimo data
- - Sėjimo vieta (šiltnamis, patalpa, lysvė, laukas)
- - Žemių rūšis (durpės, juodžemis)
- - Pastabos
-
+Pavadinimas (agurkai, pomidorai)
+Veislė (paprastieji trumpavaisiai agurkai Mirabelle H...) 
+Kiekis
+Vazonų – daigyklų informacija (talpa, dydis)
+Sėjimo data
+Sėjimo vieta (šiltnamis, patalpa, lysvė, laukas)
+Žemių rūšis (durpės, juodžemis)
+Pastabos
 
 - Daržas
   - **Augalas foreign key**
